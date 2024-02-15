@@ -1,0 +1,29 @@
+samples:
+    ZT2_1: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT02_1
+    ZT2_2: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT02_2
+    ZT2_3: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT02_3
+    ZT5_1: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT05_1
+    ZT5_2: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT05_2
+    ZT5_3: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT05_3
+    ZT8_1: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT08_1
+    ZT8_2: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT08_2
+    ZT8_3: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT08_3
+    ZT11_1: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT11_1
+    ZT11_2: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT11_2
+    ZT11_3: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT11_3
+    ZT14_1: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT14_1
+    ZT14_2: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT14_2
+    ZT14_3: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT14_3
+    ZT17_1: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT17_1
+    ZT17_2: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT17_2
+    ZT17_3: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT17_3
+    ZT20_1: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT20_1
+    ZT20_2: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT20_2
+    ZT20_3: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT20_3
+    ZT23_1: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT23_1
+    ZT23_2: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT23_2
+    ZT23_3: /data/rhea/SHLESHA/Repo_8tp_ADY/Repo_M_ZT23_3
+index:
+    /data/hyperion/ALBERT/UsefulFiles/genome
+annotation:
+    /data/hyperion/ALBERT/UsefulFiles/dm6.refGene.gtf
