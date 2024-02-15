@@ -26,4 +26,3 @@ Edit the config file
 ![CleanShot 2024-02-15 at 12 16 19@2x](https://github.com/albertdyu/dumbseq-3/assets/13254772/3474cd88-4067-423a-8e78-3a6689078e97)
 Run snakemake!
 nohup snakemake --cores 8 --configfile config.yaml &
-![image](https://github.com/albertdyu/dumbseq-3/assets/13254772/08f55860-5b7b-45cf-b29d-5bc686b05bb9)
